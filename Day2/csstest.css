@@ -1,0 +1,7 @@
+h1      {height: 30px;}
+.blue   {background: royalblue;}
+#a1     {font-size:40px;}
+.red       {background: red;}
+#a2     {font-size:80px;}
+.gray_italic    {color:gray;font-family: italic; }
+.gray_italic .red h2.blue {font-size: 100px;}
