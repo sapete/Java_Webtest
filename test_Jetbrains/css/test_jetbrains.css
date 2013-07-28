@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+}
+/*#header,#achievement,#category,#footer,#news,#product {margin: auto}*/
+
+.clear {
+    clear:both;}
+
+#hd_logo {width:200px;
+    height:75px;
+    padding-top:4px;
+    margin-left:6px;
+    /*background: #ccccff;*/
+    /*float: left;*/
+}
+
+#hd_nav {width:654px;
+    height:30px;
+    margin-top:22px;
+    /*background-color:#ffcccc;*/
+}
+#hd_logo,#hd_nav{float: left;}
+#hd_ul li,#hd_search{float: left;}
+#hd_search {width: 178px;height: 30px;margin-left: 27px;}
+#hd_search textarea {margin-top: 4px;float:left;border: 2px;padding: 2px 4px 2px 4px;width: 140px;height: 18px;max-height:18px;max-width: 140px;min-height: 18px;min-width:140px; }
+#hd_ul li {
+    display:inline;
+    height: 30px;
+    margin-left: 7px;
+}
+#hd_ul li a {color: #757574;
+    font-size: 16px;
+    height: 22px;
+    padding: 4px 14px 4px 14px;
+}
+#hd_bot {width:1000px;height: 573px;margin: auto; }
+
+#header {
+    width: 100%;
+    height: 658px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.hdsmall {width:984px;
+    height:573px;
+    margin:auto}
+
+
+#header,
+#footer {
+    background: url("../image/bg_main_decor.jpg");
+}
+
+
+.pdsmall {width:960px;
+    height:500px;
+    margin:auto}
+#pd_ul {height: 60px;}
+#pd_ul ul{float: right;height: 33px;padding-top: 7px;margin-bottom: 20px;margin-right: 80px;}
+#pd_ul ul li {/*font-family: 	"GraublauSlab-Regular",​Helvetica,Arial,​sans-serif;*/
+    float: right;
+    /*width: 81px;*/
+    height: 32px;
+    padding: 0 5px 0 5px;
+    border-bottom: 1px;
+    margin: 0 7px 0 7px;
+    list-style: none;
+    font-size: 22px;
+    font-weight: 400;
+    color: #474747;
+}
+
+#product {
+    height: 500px;
+    background: #Fff;
+}
+
+
+#news {
+    height: 190px;
+    background: #F2F1F2;
+}
+
+#category {
+    height: 572px;
+    padding: 21px 0 49px;
+    background: url("../image/bg_main_lab.jpg");
+}
+
+#achievement {
+    height: 589px;
+    padding: 21px 0 14px;
+    background: url("../image/bg_main_customers.jpg");
+}
+
+#footer {
+    height: 344px;
+    padding: 74px 0 28px;
+}
+
+#header,
+#product,
+#news,
+#category,
+#achievement {
+    border-bottom: #BDBBBC 2px solid;
+}

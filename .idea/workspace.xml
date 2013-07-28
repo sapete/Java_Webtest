@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8700e7a3-0848-495f-a625-157b892c86cc" name="Default" comment="7.28">
+    <list default="true" id="8700e7a3-0848-495f-a625-157b892c86cc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jetbrains/image/bg_nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jetbrains/image/logoJB.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jetbrains/css/test_jetbrains.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_Jetbrains/test_jetbrains.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Web.iws" />
@@ -66,39 +71,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="float.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3/float.html">
+      <file leaf-file-name="test_jetbrains.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_Jetbrains/test_jetbrains.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="11" selection-start="321" selection-end="321" vertical-scroll-proportion="-11.5" vertical-offset="0" max-vertical-offset="1104">
+            <state line="26" column="48" selection-start="986" selection-end="986" vertical-scroll-proportion="-6.0" vertical-offset="366" max-vertical-offset="1512">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day4/css/position.css">
+      <file leaf-file-name="test_jetbrains.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_Jetbrains/css/test_jetbrains.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="24" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="446" max-vertical-offset="1518">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 1/1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="15" selection-start="128" selection-end="128" vertical-scroll-proportion="0.50242716" vertical-offset="0" max-vertical-offset="1012">
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="float.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3/css/float.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
+            <state line="64" column="25" selection-start="1451" selection-end="1451" vertical-scroll-proportion="0.4990138" vertical-offset="1091" max-vertical-offset="2373">
               <folding />
             </state>
           </provider>
@@ -130,14 +115,14 @@
         <option value="$PROJECT_DIR$/Day3/css/3.css" />
         <option value="$PROJECT_DIR$/Day3_Demo/css/float.css" />
         <option value="$PROJECT_DIR$/Day4/css/position.css" />
+        <option value="$PROJECT_DIR$/test_Jetbrains/test_jetbrains.html" />
+        <option value="$PROJECT_DIR$/test_Jetbrains/css/test_jetbrains.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="24" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="width" value="720" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -185,6 +170,88 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_Webtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jetbrains" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_Webtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jetbrains" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_Webtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_Jetbrains" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_Webtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_Webtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -212,11 +279,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea\Java_Webtest\test_Jetbrains\image" />
       <recent name="D:\Idea\Java_Webtest" />
       <recent name="D:\Idea\Java_Webtest\Day3" />
       <recent name="D:\Idea\My project\Java_Webtest\Day3\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea\Java_Webtest\test_Jetbrains\image" />
       <recent name="D:\Idea\My project\Day 1" />
       <recent name="D:\Idea\My project\Day 1\图片" />
     </key>
@@ -358,7 +427,11 @@
       <created>1374983369551</created>
       <updated>1374983369551</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7.28">
+      <created>1374988331653</created>
+      <updated>1374988331653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -382,8 +455,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="24" width="1456" height="876" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="720" height="860" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -399,13 +472,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496318" sideWeight="0.5007133" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32871014" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19558823" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30703014" sideWeight="0.67128986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2993921" sideWeight="0.8042553" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -501,13 +574,6 @@
         <state line="6" column="18" selection-start="208" selection-end="208" vertical-scroll-proportion="0.19884726" vertical-offset="0" max-vertical-offset="694" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day4/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2/csstest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="7" selection-start="453" selection-end="453" vertical-scroll-proportion="0.48640484" vertical-offset="0" max-vertical-offset="662">
@@ -522,16 +588,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3/float.html">
+    <entry file="file://$PROJECT_DIR$/Day4/display.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="11" selection-start="321" selection-end="321" vertical-scroll-proportion="-11.5" vertical-offset="0" max-vertical-offset="1104">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day4/css/position.css">
+    <entry file="file://$PROJECT_DIR$/Day3/float.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="24" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="446" max-vertical-offset="1518">
+        <state line="16" column="11" selection-start="321" selection-end="321" vertical-scroll-proportion="0.86588234" vertical-offset="0" max-vertical-offset="1104">
           <folding />
         </state>
       </provider>
@@ -542,6 +608,53 @@
           <folding>
             <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jetbrains/image/bg_main_lab.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/css/display.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="694">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="347" selection-end="347" vertical-scroll-proportion="0.3645533" vertical-offset="0" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/css/position.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="20" selection-start="321" selection-end="321" vertical-scroll-proportion="-0.2925072" vertical-offset="824" max-vertical-offset="1518">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="303" selection-end="303" vertical-scroll-proportion="0.48640484" vertical-offset="0" max-vertical-offset="662">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jetbrains/test_jetbrains.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="48" selection-start="986" selection-end="986" vertical-scroll-proportion="-6.0" vertical-offset="366" max-vertical-offset="1512">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_Jetbrains/css/test_jetbrains.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="25" selection-start="1451" selection-end="1451" vertical-scroll-proportion="0.4990138" vertical-offset="1091" max-vertical-offset="2373">
+          <folding />
         </state>
       </provider>
     </entry>
