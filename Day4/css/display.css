@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.box {
+    display: inline;
+}
+
+.s {
+    display: block;
+}
+
+.test {
+    display: none;
+}

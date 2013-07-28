@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+
+/*#d1, #d2, #d3 {*/
+    /**/
+/*}*/
+
+.clear {
+    clear: both;
+}
+
+#wrapper, #d1, #d2, #d3 {
+    background: #ddd;
+    padding: 20px;
+    border: 10px #f00 solid;
+    margin: 50px;
+}
+
+#d1 {
+    float: right;
+    /*width: 300px;*/
+    /*height: 100px;*/
+    border-color: #00f;
+    border-style: dashed;
+    background: none;
+    /*overflow: scroll;*/
+    margin-bottom: 100px;
+}
+
+#d2 {
+    float: right;
+}
+
+#d3 {
+    float: left;
+    border-color: #ccf;
+}
+
+span {
+    margin: 100px;
+    padding: 50px;
+}
+

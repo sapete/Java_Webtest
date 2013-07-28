@@ -1,0 +1,45 @@
+* {/*初始化*/
+    margin: 0;
+}
+
+body {
+    height: 2000px;
+    /*background: url("../image/logo4w.png") no-repeat center top fixed;*/
+    /*background-image: url("../image/logo4w.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center top;*//*背景图片的位置*/
+    /*background-attachment: fixed;*/
+    /*background-size: 100% 50%;*/
+}
+
+/*Link-Visited-Hover-Active*/
+/*LoVe-HeAt*/
+a:link {/*伪类*/
+   color: #0f0;
+   text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: #f00;
+}
+
+a:active {
+    color: #00f;
+}
+
+div {
+    height: 200px;
+    /*border-width: 10px;*/
+    /*border-color: #0f0;*/
+    /*border-style: dashed;*/
+    /*border: 1px #00f dotted;*/
+    border: 20px #00f dashed;
+    /*border-radius: 5px;*//*css3*/
+    margin: 100px;/*外边距*/
+    padding: 50px;/*内边距*/
+    background-color: #ddd;
+}

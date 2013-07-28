@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+/*#d1, #d2, #d3 {*/
+    /**/
+/*}*/
+
+body {
+    height: 2000px;
+}
+
+.clear {
+    clear: both;
+}
+
+#wrapper, #d1, #d2, #d3 {
+    background: #ddd;
+    padding: 20px;
+    border: 10px #f00 solid;
+    margin: 50px;
+}
+
+#nav {
+    width: 100%;
+    height: 41px;
+    background: url("");
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+#wrapper {
+    /*position: relative;*/
+}
+
+#d1 {
+    border-color: #00f;
+    border-style: dashed;
+    background: #fcc;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    z-index: 9999;
+}
+
+#d2 {
+    position: relative;
+    z-index: 9;
+}
+
+#d3 {
+    border-color: #ccf;
+}
+
+span {
+    margin: 100px;
+    padding: 50px;
+}
+
